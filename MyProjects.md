@@ -2,7 +2,7 @@
 
 ## Index
 
-- [trashSmart (Ongoing)](#trashsmart-ongoing)
+- [TrashSmart (Ongoing)](#trashsmart-ongoing)
 - [TelChat](#telchat)
 - [WoodCraft](#woodcraft)
 - [BookFind](#bookfind)
@@ -12,7 +12,7 @@
 - [BMI Calculator](#bmi-calculator)
 - [MADHack](#madhack)
 
-### trashSmart (Ongoing)
+### TrashSmart (Ongoing)
 
 [![Web Application & Mobile Applications](https://img.shields.io/badge/Web%20Application%20%26%20Mobile%20Applications-black?logo=github&style=for-the-badge)](https://github.com/TrashSmart-G41) [![Backend Repository](https://img.shields.io/badge/Backend%20Repository-black?logo=github&style=for-the-badge)](https://github.com/LasithRanahewa/trashsmart-server) [![Hosted Web Application](https://img.shields.io/badge/Hosted%20Web%20Application-black?logo=google-chrome&logoColor=white&style=for-the-badge)](https://trashsmart-client.vercel.app/)
 
@@ -42,11 +42,11 @@ TrashSmart is a comprehensive smart waste management system designed for Sri Lan
 #### Screenshots
 
 | ![image-6](image/projects/ts/6.png) | ![image-1](image/projects/ts/1.png) | ![image-2](image/projects/ts/2.png) |
-| ----------------------------- | ----------------------------- | ----------------------------- |
+| --------------------------------- | --------------------------------- | --------------------------------- |
 | ![image-3](image/projects/ts/3.png) | ![image-4](image/projects/ts/4.png) | ![image-5](image/projects/ts/5.png) |
 
 | ![image-8](image/projects/ts/8.png) | ![image-9](image/projects/ts/9.png) | ![image-10](image/projects/ts/10.png) | ![image-11](image/projects/ts/11.png) |
-| ----------------------------- | ----------------------------- | ------------------------------- | ------------------------------- |
+| --------------------------------- | --------------------------------- | ----------------------------------- | ----------------------------------- |
 
 ### TelChat
 
@@ -77,7 +77,7 @@ The application consists of 3 main functionalities,
 #### Screenshots
 
 | ![image-1](image/projects/telchat/t1.png) | ![image-2](image/projects/telchat/t2.png) |
-| ----------------------------------- | ----------------------------------- |
+| --------------------------------------- | --------------------------------------- |
 | ![image-3](image/projects/telchat/t3.png) | ![image-4](image/projects/telchat/t4.png) |
 
 ### WoodCraft
@@ -116,7 +116,7 @@ An e-commerce platform integrated with a comprehensive production and inventory 
 #### Screenshots
 
 | ![image-1](image/projects/wc/wc1.png)   | ![image-2](image/projects/wc/wc2.png)   | ![image-3](image/projects/wc/wc3.png)   |
-| --------------------------------- | --------------------------------- | --------------------------------- |
+| ------------------------------------- | ------------------------------------- | ------------------------------------- |
 | ![image-4](image/projects/wc/wc4.png)   | ![image-5](image/projects/wc/wc5.png)   | ![image-6](image/projects/wc/wc6.png)   |
 | ![image-7](image/projects/wc/wc7.png)   | ![image-8](image/projects/wc/wc8.png)   | ![image-9](image/projects/wc/wc9.png)   |
 | ![image-10](image/projects/wc/wc10.png) | ![image-11](image/projects/wc/wc11.png) | ![image-12](image/projects/wc/wc12.png) |
@@ -140,7 +140,7 @@ A web application to connect the bookstores, authors, and buyers to provide an e
 #### Screenshots
 
 | ![image-1](image/projects/bookfind/1.png) | ![image-2](image/projects/bookfind/2.png) | ![image-3](image/projects/bookfind/3.png) |
-| ----------------------------------- | ----------------------------------- | ----------------------------------- |
+| --------------------------------------- | --------------------------------------- | --------------------------------------- |
 
 ### Flower Exchange
 
@@ -169,7 +169,7 @@ A project, completed in my first year as an undergraduate for a task given by th
 [![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 | ![MyMalloc Diagram 1](image/projects/malloc/1.png) | ![MyMalloc Diagram 2](image/projects/malloc/2.png) |
-| :------------------------------------------: | :------------------------------------------: |
+| :----------------------------------------------: | :----------------------------------------------: |
 
 ### IEEEDay2022
 
