@@ -14,7 +14,7 @@
 
 ### TrashSmart (Ongoing)
 
-[![Web Application & Mobile Applications](https://img.shields.io/badge/Web%20Application%20%26%20Mobile%20Applications-black?logo=github&style=for-the-badge)](https://github.com/TrashSmart-G41) [![Backend Repository](https://img.shields.io/badge/Backend%20Repository-black?logo=github&style=for-the-badge)](https://github.com/LasithRanahewa/trashsmart-server) [![Hosted Web Application](https://img.shields.io/badge/Hosted%20Web%20Application-black?logo=google-chrome&logoColor=white&style=for-the-badge)](https://trashsmart-client.vercel.app/)
+[![Web Application & Mobile Applications](https://img.shields.io/badge/Web%20Application%20%26%20Mobile%20Applications-black?logo=github&style=for-the-badge)](https://github.com/TrashSmart-G41) [![Backend Repository](https://img.shields.io/badge/Backend%20Repository-black?logo=github&style=for-the-badge)](https://github.com/LasithRanahewa/trashsmart-server) [![Hosted Web Application](https://img.shields.io/badge/Hosted%20Web%20Application-black?logo=google-chrome&logoColor=white&style=for-the-badge)]([https://trashsmart-client.vercel.app/](https://trashsmart.duckdns.org/))
 
 #### Description
 
