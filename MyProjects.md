@@ -14,7 +14,7 @@
 
 ### TrashSmart
 
-[![Web Application & Mobile Applications](https://img.shields.io/badge/Web%20Application%20%26%20Mobile%20Applications-black?logo=github&style=for-the-badge)](https://github.com/TrashSmart-G41) [![Backend Repository](https://img.shields.io/badge/Backend%20Repository-black?logo=github&style=for-the-badge)](https://github.com/LasithRanahewa/trashsmart-server) [![Hosted Web Application](https://img.shields.io/badge/Hosted%20Web%20Application-black?logo=google-chrome&logoColor=white&style=for-the-badge)](https://trashsmart.duckdns.org/)
+[![Web](https://img.shields.io/badge/Hosted%20Web%20Application-black?logo=google-chrome&logoColor=white&style=for-the-badge)](https://trashsmart.duckdns.org/)[![Web Application & Mobile Applications](https://img.shields.io/badge/Web%20Application%20%26%20Mobile%20Applications-black?logo=github&style=for-the-badge)](https://github.com/TrashSmart-G41) [![Backend Repository](https://img.shields.io/badge/Backend%20Repository-black?logo=github&style=for-the-badge)](https://github.com/LasithRanahewa/trashsmart-server) 
 
 #### Description
 
@@ -187,7 +187,7 @@ A project, completed in my first year as an undergraduate for a task given by th
 
 ### MADHack
 
-[![Repository](https://img.shields.io/badge/Repository-black?logo=google-chrome&logoColor=white&style=for-the-badge)](https://github.com/LasithRanahewa/IEEE-SB-Web-Task)
+[![Web](https://img.shields.io/badge/Hosted%20Web%20Application-black?logo=google-chrome&logoColor=white&style=for-the-badge)](https://lasithranahewa.github.io/IEEE-SB-Web-Task/)[![Repository](https://img.shields.io/badge/Repository-black?logo=google-chrome&logoColor=white&style=for-the-badge)](https://github.com/LasithRanahewa/IEEE-SB-Web-Task)
 
 * I created this hackathon landing page for an IEEE Student Branch Web Team interview task.
 
